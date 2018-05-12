@@ -1,6 +1,14 @@
-This profile is a compliation of all the the assignments and projects I have done during the course of my Masters of Science in Information Systems.
-The assignments involve assignment problem-set and project application in Core-Java.
-It also contains my current mobile development course projects in iOS, Swift.
+Welcome!
 
-My profile is a fair reflection of how far I have come in the field of application development and my knowledge in Informnation Systems.
-I hope you enjoy reading through it!
+Following github repository contains all my current/ongoing/completed assignments and projects as a part of my Masters in Information Systems program at Northeastern University, Boston.
+
+List of projects:
+
+1. OPIOID Management System: An application to capture and track the issue and distribution of the OPIOID drug to patients
+        Technologies Used: Java Swing, DB4O object persistence database
+2. HealthCareTimely: An iOS app to manage patient queues in clinics and hospitals
+		Technologies Used: Swift, xCode
+3. Pig: A javascript based 2 player game
+		Technologies Used: Javascript, HTML5, CSS3
+4. MovieBooking System: A spring mvc application jto manage booking of tickets for a movie theater
+		Technologies Used: Spring MVC, Hibernate, Javascript/jQuery, HTML5, CSS3, AJAX, JSP
