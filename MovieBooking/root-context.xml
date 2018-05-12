@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+	<bean id="userValidator" class="com.me.lab8Student.validator.UserValidator"></bean>
+	<bean id="userDao" class="com.me.lab8Student.dao.UserDAO" ></bean>
+	
+	
+	<bean id="bookingValidator" class="com.me.lab8Student.validator.BookingValidator"></bean>
+	<bean id="bookingDao" class="com.me.lab8Student.dao.BookingDao"></bean>
+	
+	<bean id="categoryValidator" class="com.me.lab8Student.validator.CategoryValidator"></bean>
+	<bean id="categoryDao" class="com.me.lab8Student.dao.CategoryDAO" ></bean>
+	
+	<bean id="advertValidator" class="com.me.lab8Student.validator.AdvertValidator"></bean>
+	<bean id="advertDao" class="com.me.lab8Student.dao.AdvertDAO" ></bean>
+	
+</beans>

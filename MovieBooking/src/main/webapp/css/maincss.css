@@ -1,0 +1,17 @@
+.button { 
+    float:left;
+    color: #333;
+    width: auto;
+    text-align: center;
+    padding: 0 10px;
+    line-height: 1.5em;
+    height: auto;
+}
+.button.active {
+    background: #ea0000;
+    color: #fff;
+}
+.active{
+    background:#357EBD;
+    color:#FFF
+}
