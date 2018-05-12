@@ -12,4 +12,3 @@ List of projects:
 	Technologies Used: Javascript, HTML5, CSS3
 4. MovieBooking System: A spring mvc application jto manage booking of tickets for a movie theater
 	Technologies Used: Spring MVC, Hibernate, Javascript/jQuery, HTML5, CSS3, AJAX, JSP
-
